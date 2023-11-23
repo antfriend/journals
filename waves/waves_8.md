@@ -1,3 +1,5 @@
+image_url: https://github.com/antfriend/journals/blob/main/waves/waves_8.png?raw=true
+
 Title: "Brain Folds and Learning: Mapping the Mind's Origami"
 
 Summary: Our brains' complexity is akin to intricate paper art; we are constantly refolding our cerebral maps as we learn and grow, much like origami evolving with each new fold.
