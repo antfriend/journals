@@ -1,3 +1,7 @@
+# DEPRECATED
+#
+# Created index items for first edition journal pages
+#
 # prompt: "generate python that populates an Algolia index of the web pages in antfriend.github.io/journals"
 import requests
 from bs4 import BeautifulSoup
