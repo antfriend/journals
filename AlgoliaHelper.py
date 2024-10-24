@@ -1,5 +1,8 @@
 # ============================================
 #
+# This module is not yet modified for use in Journals
+#
+# 
 # Solution helper code, loose, prototype form
 #
 # ============================================
